@@ -1,0 +1,20 @@
+The following models should be downloaded to "liuhaotian/llava-v1.5-13b" folder path
+
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/config.json
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/generation_config.json
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/pytorch_model-00001-of-00003.bin
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/pytorch_model-00002-of-00003.bin
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/pytorch_model-00003-of-00003.bin
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/pytorch_model.bin.index.json
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/special_tokens_map.json
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/tokenizer.model
+https://weights.replicate.delivery/default/llava-v1.5-13b/006818fc465ebda4c003c0998674d9141d8d95f8/tokenizer_config.json
+
+
+
+The fllowing models should be downloaded to "openai/clip-vit-large-patch14-336" folder path
+
+https://weights.replicate.delivery/default/clip-vit-large-patch14-336/ce19dc912ca5cd21c8a653c79e251e808ccabcd1/config.json
+https://weights.replicate.delivery/default/clip-vit-large-patch14-336/ce19dc912ca5cd21c8a653c79e251e808ccabcd1/preprocessor_config.json
+https://weights.replicate.delivery/default/clip-vit-large-patch14-336/ce19dc912ca5cd21c8a653c79e251e808ccabcd1/pytorch_model.bin
+
